@@ -5,7 +5,7 @@
 **Category:** Financial Compliance  
 **Status:** Proposed  
 **Version:** 1.0  
-**Created:** 2025-01-31  
+**Created:** 2025-07-06 
 **Last Modified:** 2025-07-06  
 **Author:** James Carpenter  
 **Description:** Establishes mandatory reserve verification standards for all participating stablecoin issuers  
@@ -30,7 +30,7 @@ Non-compliance with these obligations may result in: Immediate suspension from t
 **Category:** Operational Standards  
 **Status:** Proposed  
 **Version:** 1.0  
-**Created:** 2025-01-31  
+**Created:** 2025-07-06
 **Last Modified:** 2025-07-06  
 **Author:** James Carpenter  
 **Description:** Defines mandatory processing timeframes for all redemption requests processed through the Ubyx network  
@@ -55,7 +55,7 @@ Non-compliance with these obligations may result in: Performance monitoring and 
 **Category:** Consumer Protection  
 **Status:** Proposed  
 **Version:** 1.0  
-**Created:** 2025-01-31  
+**Created:** 2025-07-06
 **Last Modified:** 2025-07-06  
 **Author:** James Carpenter  
 **Description:** Mandates clear disclosure of all fees associated with redemption transactions  
@@ -80,7 +80,7 @@ Non-compliance with these obligations may result in: Mandatory fee refunds to af
 **Category:** Technical Requirements  
 **Status:** Proposed  
 **Version:** 1.0  
-**Created:** 2025-01-31  
+**Created:** 2025-07-06
 **Last Modified:** 2025-07-06  
 **Author:** James Carpenter  
 **Description:** Establishes technical infrastructure requirements for supporting all Ubyx-enabled blockchains  
@@ -105,7 +105,7 @@ Non-compliance with these obligations may result in: Mandatory technical audits 
 **Category:** Risk Management  
 **Status:** Proposed  
 **Version:** 1.0  
-**Created:** 2025-01-31  
+**Created:** 2025-07-06 
 **Last Modified:** 2025-07-06  
 **Author:** James Carpenter  
 **Description:** Defines automatic crisis response mechanisms to maintain network stability during stress events  
