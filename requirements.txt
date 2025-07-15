@@ -1,4 +1,0 @@
-mkdocs==1.5.3
-mkdocs-material==9.*
-mkdocs-awesome-pages-plugin==2.*
-mkdocs-redirects==1.*
