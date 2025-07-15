@@ -1,0 +1,16 @@
+title: Ubyx Rulebook Working Draft
+
+theme: just-the-docs
+color_scheme: dark
+
+url: "https://pronouncedkenny.github.io"
+
+include:
+  - "rules"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
