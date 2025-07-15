@@ -1,0 +1,29 @@
+name: Build & Deploy Rulebook
+on:
+  push:
+    branches: [ Numbering-Convention ]
+    paths:   [ 'rules/**/*.md' ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci          # installs markdown‑it
+
+      - name: Build HTML
+        run: node .github/scripts/make-html.js
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
