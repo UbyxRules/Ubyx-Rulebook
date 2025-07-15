@@ -26,4 +26,5 @@ Description: [high level overview]
 ### Non-Compliance Penalties
 Non-compliance with these obligations may result in:
 - [text] e.g. Suspension from the Ubyx network.
+- 
 
