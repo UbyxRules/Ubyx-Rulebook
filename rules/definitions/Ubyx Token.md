@@ -2,7 +2,7 @@ The Ubyx Token is a planned digital asset intended to support the future evoluti
 
 The Ubyx Token is envisioned as a utility token that may be used, in a future phase of the platform’s development, to facilitate progressive decentralisation of the Ubyx network. Potential use cases include:
 
-Participation in the governance and maintenance of the Ubyx Rulebook;
+Participation in the governance — such as proposing changes to the Rulebook, voting on redemption policies, or contributing compliance improvements and maintenance of the Ubyx Rulebook — such as clarifying or rewriting existing rules for better understanding.
 
 Payment of transaction fees within the Ubyx clearing system; and
 
