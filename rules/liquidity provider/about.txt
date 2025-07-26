@@ -1,0 +1,1 @@
+This directory contains rules related to liquidity providers on the Ubyx clearing platform who accept redemptions and provide cash liquidity in place of issuers.
